@@ -22,8 +22,11 @@ The Open Graph protocol enables any web page to become a rich object in a social
 ## Favicon - Touchicon meta 
 
 All these favicon and touchicon could be generated on [Real favicon generator website](http://www.realfavicongenerator.net).
+
 For windows phone, don't forget to add browserconfig.xml file at the root path of your website.
+
 To finish with your favicon, don't forget to edit all the files by yours.
+
 [Favicon - Touchicon meta](favicon_touchicon.html)
 
 ========
